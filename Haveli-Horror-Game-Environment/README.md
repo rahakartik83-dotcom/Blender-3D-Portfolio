@@ -39,3 +39,7 @@ The current version focuses on building the main architecture and overall layout
 🟡 **Work in Progress — ~25–30%**
 
 This project is an ongoing learning and game-development project. It represents my first major step into 3D environment modeling.
+
+## Preview
+
+![Haveli Environment](Screenshot%202026-08-27%20195839.png)
