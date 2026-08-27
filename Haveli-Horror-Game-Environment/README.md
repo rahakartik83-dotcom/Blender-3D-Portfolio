@@ -42,4 +42,13 @@ This project is an ongoing learning and game-development project. It represents 
 
 ## Preview
 
-![Haveli Environment](Screenshot%202026-08-27%20195839.png)
+Different exterior views of the Haveli environment.
+
+![Haveli Exterior 1](Screenshot%202026-08-27%20195839.png)
+
+![Haveli Exterior 2](Screenshot%202026-08-27%20195856.png)
+
+![Haveli Exterior 3](Screenshot%202026-08-27%20195910.png)
+
+![Haveli Exterior 4](Screenshot%202026-08-26%20215912.png)
+
