@@ -31,3 +31,24 @@ The body was designed in Blender with the electronic components and physical ass
 🟢 **Completed & 3D Printed**
 
 This project was designed in Blender and successfully converted into a physical 3D-printed enclosure for the monitoring system.
+
+
+## Blender Design
+
+The enclosure was designed in Blender with the electronics and physical assembly requirements in mind.
+
+![Blender Design](posture-monitor.jpeg)
+
+![Front Shell](posture-monitor-front-shell.jpeg)
+
+![Back Shell](posture-monitor-back%20shell.jpeg)
+
+## 3D Printed Result
+
+The final enclosure was successfully 3D printed and assembled as a physical prototype.
+
+![Printed Enclosure](posture-monitor-printed.jpeg)
+
+![Printed Back](posture-monitor-printed-back.jpeg)
+
+![Printed Parts](posture-monitor-printed-all-parts.jpeg)
