@@ -34,6 +34,18 @@ The Blender design is being developed alongside the electronics so that componen
 
 🟡 **Work in Progress — Not Yet Printed**
 
+
+## Preview
+
+Current views of the NOVA robot design.
+
+![NOVA Front View](nova-front.png)
+
+![NOVA Side View](nova-side.png)
+
+![NOVA Interior](nova-inside.png)
+
+
 The model will continue to be refined before the final parts are prepared for 3D printing.
 
 ## Note
